@@ -14,6 +14,7 @@
 		9FF6449D207E653900AF291B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FF6449B207E653900AF291B /* LaunchScreen.storyboard */; };
 		9FF644A8207E653900AF291B /* PhotoMasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF644A7207E653900AF291B /* PhotoMasterTests.swift */; };
 		9FF644B3207E653900AF291B /* PhotoMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF644B2207E653900AF291B /* PhotoMasterUITests.swift */; };
+		9FF644C1207F950100AF291B /* yusya.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FF644C0207F950100AF291B /* yusya.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9FF644AE207E653900AF291B /* PhotoMasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoMasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FF644B2207E653900AF291B /* PhotoMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoMasterUITests.swift; sourceTree = "<group>"; };
 		9FF644B4207E653900AF291B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FF644C0207F950100AF291B /* yusya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yusya.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9FF64499207E653900AF291B /* Assets.xcassets */,
 				9FF6449B207E653900AF291B /* LaunchScreen.storyboard */,
 				9FF6449E207E653900AF291B /* Info.plist */,
+				9FF644C0207F950100AF291B /* yusya.png */,
 			);
 			path = PhotoMaster;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				9FF6449D207E653900AF291B /* LaunchScreen.storyboard in Resources */,
 				9FF6449A207E653900AF291B /* Assets.xcassets in Resources */,
 				9FF64498207E653900AF291B /* Main.storyboard in Resources */,
+				9FF644C1207F950100AF291B /* yusya.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
